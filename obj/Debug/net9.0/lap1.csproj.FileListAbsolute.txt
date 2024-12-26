@@ -1,0 +1,14 @@
+D:\VTCcode\lap1\bin\Debug\net9.0\lap1.exe
+D:\VTCcode\lap1\bin\Debug\net9.0\lap1.deps.json
+D:\VTCcode\lap1\bin\Debug\net9.0\lap1.runtimeconfig.json
+D:\VTCcode\lap1\bin\Debug\net9.0\lap1.dll
+D:\VTCcode\lap1\bin\Debug\net9.0\lap1.pdb
+D:\VTCcode\lap1\obj\Debug\net9.0\lap1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VTCcode\lap1\obj\Debug\net9.0\lap1.AssemblyInfoInputs.cache
+D:\VTCcode\lap1\obj\Debug\net9.0\lap1.AssemblyInfo.cs
+D:\VTCcode\lap1\obj\Debug\net9.0\lap1.csproj.CoreCompileInputs.cache
+D:\VTCcode\lap1\obj\Debug\net9.0\lap1.dll
+D:\VTCcode\lap1\obj\Debug\net9.0\refint\lap1.dll
+D:\VTCcode\lap1\obj\Debug\net9.0\lap1.pdb
+D:\VTCcode\lap1\obj\Debug\net9.0\lap1.genruntimeconfig.cache
+D:\VTCcode\lap1\obj\Debug\net9.0\ref\lap1.dll
